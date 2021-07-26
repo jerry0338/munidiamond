@@ -1,0 +1,31 @@
+/*================================================================================
+	Item Name: Diamond
+	Version: 2.0
+	Author: JERRY PATEL
+	Author URL: http://www.fiylla.com
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.dataTables_wrapper .dataTables_length{
+	float: left;
+}
+
+.dataTables_wrapper .dataTables_filter{
+	float: right;
+}
+
+.dataTables_wrapper .dataTables_filter label{
+	margin-top: 0rem !important;
+}
+
+.dataTables_wrapper .dt-buttons{
+	margin-left: 1rem !important;
+}
+
+.card-header{
+	padding-bottom: 0rem !important;
+}
